@@ -212,11 +212,10 @@ CCTV中央新影-中学生,http://49.235.110.121:9090/daili/小果.php?id=zxs_40
 CCTV中央新影-老故事,http://49.235.110.121:9090/daili/小果.php?id=lgs_2000&Cf.m3u8
 CCTV中央新影-发现之旅,http://49.235.110.121:9090/daili/小果.php?id=fxzl_2000&Cf.m3u8
 📡卫视,#genre#
-河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?
+河北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
 河北卫视,http://42.53.68.178:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
 河北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1698524218_988816054/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1669700299&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-河北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225991/index.m3u8
 河北卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001229/1.m3u8
 河北卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
@@ -236,8 +235,8 @@ CCTV中央新影-发现之旅,http://49.235.110.121:9090/daili/小果.php?id=fxz
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
-东方卫视,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
+东方卫视,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 东方卫视,http://111.20.35.103:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=00
 东方卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
