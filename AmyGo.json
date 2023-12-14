@@ -95,7 +95,7 @@
       "name": "⚽ 88┃看球",
       "type": 3,
       "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/88看球.js",
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/88%E7%9C%8B%E7%90%83.js",
       "style": {
         "type": "list"
       },
@@ -247,7 +247,7 @@
       "name": "📚儿童┃启蒙",
       "type": 3,
       "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
-      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/兔小贝.js",
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
