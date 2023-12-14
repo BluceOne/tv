@@ -1,8 +1,7 @@
 
 {
-"spider":"https://gitee.com/amygotv/tvsource/raw/master/spider.jar",
-
-
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb",
+ "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYW15Z290di90dnNvdXJjZS9yYXcvbWFzdGVyL2xpdmVz"]}]}],
 
 "sites":[
