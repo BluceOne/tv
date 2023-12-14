@@ -94,7 +94,7 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/api/drpy2.min.js",
       "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/88%E7%9C%8B%E7%90%83.js",
       "style": {
         "type": "list"
@@ -132,7 +132,7 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/api/drpy2.min.js",
       "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/虎牙直播.js",
       "style": {
         "type": "list"
@@ -145,7 +145,7 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/api/drpy2.min.js",
       "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/斗鱼直播.js",
       "style": {
         "type": "list"
@@ -158,7 +158,7 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/api/drpy2.min.js",
       "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -246,7 +246,7 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/api/drpy2.min.js",
       "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
