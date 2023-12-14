@@ -1,9 +1,10 @@
 {
+    
  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕公众号【神秘的哥哥们】",
+      "name": "🌕免费分享，请勿付费",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -12,13 +13,13 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃已修复断流",
+      "name": "👽玩偶哥哥┃4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/玩偶表哥.json"
     },
     
     {
@@ -30,16 +31,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "Lib",
-      "name": "🌟利播┃直连",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pro/"
     },
     {
       "key": "csp_Dm84",
@@ -103,8 +94,8 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/88看球.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/88看球.js",
       "style": {
         "type": "list"
       },
@@ -123,7 +114,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json"
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/企鹅直播.json"
     },
     {
       "key": "MV_vod",
@@ -141,8 +132,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/虎牙直播.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/虎牙直播.js",
       "style": {
         "type": "list"
       },
@@ -154,8 +145,8 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/斗鱼直播.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/斗鱼直播.js",
       "style": {
         "type": "list"
       },
@@ -167,8 +158,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/有声小说吧.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -249,14 +240,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/bilibili.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "https://gitee.com/amygotv/tvsource/raw/master/lib/drpy2.min.js",
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -277,7 +268,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json"
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -291,7 +282,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json"
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -305,7 +296,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json"
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -319,11 +310,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
+      "ext": "https://gitee.com/amygotv/tvsource/raw/master/lib/高中课堂.json"
     },
     {
       "key": "fan",
-      "name": "导航 https://饭太硬.top",
+      "name": "QQ：280682700",
       "type": 3,
       "api": "csp_fan",
       "searchable": 0,
