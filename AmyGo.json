@@ -1,22 +1,19 @@
-
 {
-"spider": "https://gitee.com/amygotv/tvsource/raw/master/spider.jar",
- "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYW15Z290di90dnNvdXJjZS9yYXcvbWFzdGVyL2xpdmVz"]}]}],
-
-"sites":[
- {
-      "key": "AmyGo",
-      "name": "🌕免费分享，请勿付费购买",
+  "spider": "https://gitee.com/amygotv/tvsource/raw/master/spider.jar",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "豆豆",
+      "name": "🌕公众号【神秘的哥哥们】",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
-{
+    {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K",
+      "name": "👽玩偶哥哥┃已修复断流",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -24,7 +21,18 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
- {
+    
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Lib",
       "name": "🌟利播┃直连",
       "type": 3,
@@ -34,7 +42,7 @@
       "changeable": 1,
       "ext": "https://www.libvio.pro/"
     },
- {
+    {
       "key": "csp_Dm84",
       "name": "🚌动漫┃巴士",
       "type": 3,
@@ -169,6 +177,16 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "YiSo",
+      "name": "😹易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "Zhaozy",
@@ -321,17 +339,15 @@
       "searchable": 0,
       "quickSearch": 0
     }
-
-],
-
- "parses": [
+  ],
+  "parses": [
     {
       "name": "聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "免费分享，请勿付费购买",
+      "name": "神秘的哥哥们",
       "type": 1,
       "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
@@ -552,5 +568,25 @@
         "更 新"
       ]
     }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://gitee.com/amygotv/tvsource/raw/master/lives",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    // {
+    //   "name": "ipv6",
+    //   "type": 0,
+    //   "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+    //   "playerType": 1,
+    //   "ua": "okhttp/3.15",
+    //   "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+    //   "logo": "https://epg.112114.xyz/logo/{name}.png"
+    // }
   ]
 }
