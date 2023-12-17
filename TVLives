@@ -176,7 +176,7 @@ CCTV-12,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/
 CCTV-13,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 CCTV-14,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
 CCTV-15,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCYV-16,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV-16,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV-16,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV-17,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 CCTV-4K,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
@@ -682,13 +682,11 @@ SITV都市剧场,http://zteres.sn.chinamobile.com:6060/000000001000/500000001100
 SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 
-黑莓频道,#genre#
+黑莓频道#genre#
 BesTV-电影,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 BesTV-电竞,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001151/index.m3u8?
 黑莓电影,http://39.134.116.30:8080/PLTV/88888910/224/3221225769/index.m3u8
 黑莓电影,http://39.137.49.76:8080/PLTV/88888888/224/3221225718/index.m3u8
-黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1756633734_-1487356125/ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-黑莓动画,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225672/index.m3u8
 黑莓电竞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225653/index.m3u8
 黑莓电竞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225749/index.m3u8
 黑莓电竞,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225750/index.m3u8
@@ -862,7 +860,10 @@ CHC家庭影院,http://39.134.32.102:6610/270000001111/1110000010/index.m3u8?IAS
 金鹰卡通,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43025/index.m3u8
 动漫秀场,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 卡酷少儿,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1756633734_-1487356125/ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8?icpid=3&RTS=1674386167&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+黑莓动画,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225672/index.m3u8
+黑莓动画,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
 哈哈炫动,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
-动漫秀场,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
-宝宝动画,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
+动漫秀场http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+宝宝动画http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
 金鹰卡通,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
